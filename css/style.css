@@ -9689,7 +9689,6 @@ body::-webkit-scrollbar{
 }
 body::-webkit-scrollbar-track{
   background-color: var(--gray-dark);
-  border-radius: 10px;
 }
 body::-webkit-scrollbar-thumb{
   background-color: var(--orange);
